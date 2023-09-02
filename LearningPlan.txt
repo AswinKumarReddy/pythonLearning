@@ -1,0 +1,99 @@
+Week 1: Introduction to Python Basics
+
+Resources:
+Python Official Website: Python.org
+Codecademy Python Course: Codecademy
+Activities:
+Install Python and an IDE (e.g., Jupyter Notebook).
+Learn basic Python syntax, variables, and data types.
+Project: Write a Python program to solve a simple math problem or create a basic calculator.
+
+
+Week 2: Control Structures and Functions
+
+Resources:
+Python Control Structures: Control Flow
+Python Functions: Functions
+Activities:
+Study control structures (if statements, loops) and functions in Python.
+Project: Create a Python program to calculate the factorial of a number using functions and control structures.
+
+
+Week 3: Data Manipulation with Pandas
+
+Resources:
+Pandas Documentation: Pandas User Guide
+Kaggle Pandas Tutorial: Pandas Tutorial
+Activities:
+Explore Pandas for data manipulation and basic data analysis.
+Project: Analyze a small dataset, clean it using Pandas, and generate summary statistics.
+
+
+Week 4: Data Visualization with Matplotlib and Seaborn
+
+Resources:
+Matplotlib Documentation: Matplotlib Tutorials
+Seaborn Documentation: Seaborn Tutorial
+Activities:
+Learn data visualization with Matplotlib and Seaborn.
+Project: Create a data visualization showcasing trends in a dataset using Matplotlib and Seaborn.
+
+
+Week 5: Statistical Analysis and Hypothesis Testing
+
+Resources:
+Khan Academy Statistics Course: Khan Academy
+DataCamp Statistics Course: DataCamp
+Activities:
+Understand basic statistical concepts and hypothesis testing.
+Project: Conduct a simple statistical analysis of a dataset, including hypothesis testing.
+
+
+Week 6: Introduction to Machine Learning
+
+Resources:
+Scikit-Learn Documentation: Introduction to Machine Learning with Scikit-Learn
+Coursera Machine Learning Course by Andrew Ng: Coursera
+Activities:
+Begin learning about machine learning concepts and algorithms.
+Project: Train a simple machine learning model (e.g., linear regression) on a dataset.
+
+
+Week 7: Deep Learning Basics with TensorFlow/Keras
+
+Resources:
+TensorFlow Tutorials: TensorFlow Tutorials
+Keras Documentation: Keras API
+Activities:
+Dive into deep learning using TensorFlow/Keras.
+Project: Build a neural network for a basic image classification task using TensorFlow/Keras.
+
+
+Week 8: Data Preprocessing and Feature Engineering
+
+Resources:
+Feature Engineering in Scikit-Learn: Feature Engineering
+Feature Engineering for Machine Learning: Feature Engineering
+Activities:
+Learn about data preprocessing and feature engineering techniques.
+Project: Apply data preprocessing and feature engineering to improve a machine learning model's performance.
+
+
+Week 9: Advanced Machine Learning Concepts
+
+Resources:
+Andrew Ng's Deep Learning Specialization on Coursera: Deep Learning Specialization
+Stanford University's CS229 Machine Learning Course: CS229
+Activities:
+Explore advanced machine learning topics such as ensemble methods and deep learning.
+Project: Implement an ensemble model or a deep learning architecture on a real-world dataset.
+
+
+Week 10: Capstone Project
+
+Activities:
+Select a machine learning project related to a specific area of interest (e.g., natural language processing, computer vision).
+Plan, develop, and document your capstone project, applying all you've learned.
+Throughout this 10-week plan, make use of online coding platforms like Jupyter Notebook and engage in coding challenges and competitions on platforms like Kaggle. 
+Remember that practice and hands-on experience are crucial for mastering Python for data science and machine learning. Good luck with your journey to becoming a data scientist 
+and machine learning engineer!

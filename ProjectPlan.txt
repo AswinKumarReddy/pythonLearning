@@ -1,0 +1,85 @@
+Week 1: Introduction to Python Basics
+
+Project: Write a Python program that:
+Takes user input for their name and age.
+Greets the user with a personalized message.
+Calculates and prints the year they'll turn 100 years old.
+
+
+Week 2: Control Structures and Functions
+
+Project: Create a Python program that:
+Takes a user's number input.
+Checks if the number is even or odd using control structures (if statements).
+Defines a function that calculates the factorial of the number and returns the result.
+
+
+Week 3: Data Manipulation with Pandas
+
+Project: Analyze a small dataset (e.g., a CSV file) using Pandas. Your project should include:
+Data cleaning: Handling missing values and duplicates.
+Data exploration: Generating summary statistics and visualizations (e.g., histograms, scatter plots).
+A brief report explaining your findings.
+
+
+Week 4: Data Visualization with Matplotlib and Seaborn
+
+Project: Create a data visualization project that:
+Uses Matplotlib and Seaborn to visualize trends or patterns in a dataset.
+Includes appropriate titles, labels, and legends.
+You can choose the dataset based on your interests (e.g., housing prices, weather data).
+
+
+Week 5: Statistical Analysis and Hypothesis Testing
+
+Project: Conduct a statistical analysis project that:
+Selects a dataset with multiple variables.
+Performs descriptive statistics (mean, median, standard deviation).
+Formulates a hypothesis and conducts a relevant statistical test (e.g., t-test, chi-square test).
+Interprets the results and draws conclusions.
+
+
+Week 6: Introduction to Machine Learning
+
+Project: Train a simple machine learning model:
+Choose a dataset (e.g., a CSV file) suitable for regression or classification.
+Preprocess the data (e.g., handling missing values, feature scaling).
+Split the data into training and testing sets.
+Train and evaluate a machine learning model (e.g., linear regression, decision tree) to make predictions.
+
+
+Week 7: Deep Learning Basics with TensorFlow/Keras
+
+Project: Build a basic image classification model using TensorFlow/Keras:
+Select a dataset of images (e.g., digits, cats vs. dogs).
+Preprocess the images (e.g., resizing, normalization).
+Create a deep neural network with at least one hidden layer.
+Train the model and evaluate its performance using accuracy.
+
+
+Week 8: Data Preprocessing and Feature Engineering
+
+Project: Apply data preprocessing and feature engineering to a dataset:
+Handle categorical variables (e.g., one-hot encoding).
+Implement feature scaling or normalization.
+Create new meaningful features.
+Train and compare machine learning models with and without feature engineering.
+
+
+Week 9: Advanced Machine Learning Concepts
+
+Project: Implement an ensemble learning project:
+Choose a dataset suitable for classification or regression.
+Train and evaluate an ensemble model (e.g., Random Forest, Gradient Boosting).
+Compare the ensemble model's performance with a single base model.
+
+
+Week 10: Capstone Project
+
+Project: For your capstone project, you have the freedom to choose a specific area of interest within data science and machine learning. Ensure your project includes:
+A clear problem statement and project goal.
+Data collection, cleaning, and preprocessing steps.
+Model selection and training.
+Evaluation metrics and interpretation of results.
+A well-documented report or presentation summarizing your project.
+These detailed project requirements should provide you with clear guidance for each week's project, helping you apply what you've learned and gain hands-on experience in Python for data science and machine learning.
